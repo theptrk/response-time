@@ -1,4 +1,5 @@
 response-time
 =============
 
-X-Response-Time middleware for iron
+> Response time logging middleware for [Iron](https://github.com/iron/iron)
+
